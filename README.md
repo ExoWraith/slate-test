@@ -1,4 +1,4 @@
-# Additional libraries used
+## Additional libraries used
 
 - Redux
 - React-Redux
