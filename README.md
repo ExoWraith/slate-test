@@ -1,8 +1,10 @@
-React
+# Additional libraries used
 
-Bootstrap  
-Redux  
-React-Redux  
+- Redux
+- React-Redux
+- Bootstrap
 
-Run npm install  
-Run npm start  
+## Start the development
+
+Run `npm install`.
+Run `npm start`.
